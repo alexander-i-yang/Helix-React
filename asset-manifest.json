@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/Helix-React/static/css/main.88ee0c84.chunk.css",
-    "main.js": "/Helix-React/static/js/main.d9232a71.chunk.js",
-    "main.js.map": "/Helix-React/static/js/main.d9232a71.chunk.js.map",
+    "main.js": "/Helix-React/static/js/main.2fd21564.chunk.js",
+    "main.js.map": "/Helix-React/static/js/main.2fd21564.chunk.js.map",
     "runtime~main.js": "/Helix-React/static/js/runtime~main.407bf7ac.js",
     "runtime~main.js.map": "/Helix-React/static/js/runtime~main.407bf7ac.js.map",
     "static/js/2.188531e5.chunk.js": "/Helix-React/static/js/2.188531e5.chunk.js",
     "static/js/2.188531e5.chunk.js.map": "/Helix-React/static/js/2.188531e5.chunk.js.map",
     "index.html": "/Helix-React/index.html",
-    "precache-manifest.ceb642a051d7dcb0a32f64a92c922530.js": "/Helix-React/precache-manifest.ceb642a051d7dcb0a32f64a92c922530.js",
+    "precache-manifest.414d454b5e4170b67f45a74a6db2ebdc.js": "/Helix-React/precache-manifest.414d454b5e4170b67f45a74a6db2ebdc.js",
     "service-worker.js": "/Helix-React/service-worker.js",
-    "static/css/main.88ee0c84.chunk.css.map": "/Helix-React/static/css/main.88ee0c84.chunk.css.map"
+    "static/css/main.88ee0c84.chunk.css.map": "/Helix-React/static/css/main.88ee0c84.chunk.css.map",
+    "static/media/shield.svg": "/Helix-React/static/media/shield.271bd502.svg"
   }
 }
