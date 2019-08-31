@@ -1,3 +1,6 @@
+import React, { Component } from 'react';
+import './App.scss';
+
 const cards = {
   A: [
     {
@@ -947,4 +950,5 @@ const App = () => {
     </>
   );
 };
-ReactDOM.render(<App />, document.getElementById('root'));
+
+export default App();
