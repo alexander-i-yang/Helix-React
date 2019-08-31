@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Helix-React/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Helix-React/static/js/main.2a1610d4.chunk.js",
-    "main.js.map": "/Helix-React/static/js/main.2a1610d4.chunk.js.map",
+    "main.css": "/Helix-React/static/css/main.88ee0c84.chunk.css",
+    "main.js": "/Helix-React/static/js/main.f60a48bb.chunk.js",
+    "main.js.map": "/Helix-React/static/js/main.f60a48bb.chunk.js.map",
     "runtime~main.js": "/Helix-React/static/js/runtime~main.407bf7ac.js",
     "runtime~main.js.map": "/Helix-React/static/js/runtime~main.407bf7ac.js.map",
-    "static/js/2.fcfad392.chunk.js": "/Helix-React/static/js/2.fcfad392.chunk.js",
-    "static/js/2.fcfad392.chunk.js.map": "/Helix-React/static/js/2.fcfad392.chunk.js.map",
+    "static/js/2.188531e5.chunk.js": "/Helix-React/static/js/2.188531e5.chunk.js",
+    "static/js/2.188531e5.chunk.js.map": "/Helix-React/static/js/2.188531e5.chunk.js.map",
     "index.html": "/Helix-React/index.html",
-    "precache-manifest.46d3d3cf149a1a04a07b03416e89e434.js": "/Helix-React/precache-manifest.46d3d3cf149a1a04a07b03416e89e434.js",
+    "precache-manifest.c4ee959cdfc99460cec936352cd3131d.js": "/Helix-React/precache-manifest.c4ee959cdfc99460cec936352cd3131d.js",
     "service-worker.js": "/Helix-React/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Helix-React/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Helix-React/static/media/logo.5d5d9eef.svg"
+    "static/css/main.88ee0c84.chunk.css.map": "/Helix-React/static/css/main.88ee0c84.chunk.css.map"
   }
 }
